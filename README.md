@@ -6,8 +6,6 @@
 
 ![image-2](https://github.com/Mohammad-Daryaei/bootstrap-project-1/assets/149871548/cb3b19eb-78a1-4561-bd51-07a7a2f491f5)
 
-![image-3](https://github.com/Mohammad-Daryaei/bootstrap-project-1/assets/1498715481c8-4ca5-bb6d-d27a47535017)
-
 ![image-4](https://github.com/Mohammad-Daryaei/bootstrap-project-1/assets/149871548/a763b573-2743-48c9-9de5-366817c72982)
 
 
