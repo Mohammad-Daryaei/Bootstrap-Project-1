@@ -14,7 +14,7 @@
 ![image-6](https://github.com/Mohammad-Daryaei/bootstrap-project-1/assets/149871548/576c11ad-585d-432f-8b2a-ddc2115a2fe9)
 81c8-4ca5-bb6d-d27a47535017)
 
-- 🔗 Demo Project](https://mohammad-daryaei.github.io/Bootstrap-Project-1/)
+- 🔗 Demo Project](https://mohammad-daryaei.github.io/bootstrap-project-1/)
 
 - 👌 Developed by Mohammad Daryaei
 
